@@ -134,6 +134,7 @@ variables:
   # VirtualNetworkName: (optional) Name of the Virtual Network.
 
   ## Bots Configuration (Define these variables in Azure)
+
   # BffnComposerHostBotDotNetAppId: App Id for BffnComposerHostBotDotNet bot.
   # BffnComposerHostBotDotNetAppSecret: App Secret for BffnComposerHostBotDotNet bot.
   # BffnComposerSkillBotDotNetAppId: App Id for BffnComposerSkillBotDotNet bot.
@@ -148,14 +149,17 @@ variables:
   # BffnEchoSkillBotDotNetSTAppSecret: App Secret for BffnEchoSkillBotDotNetST bot.
   # BffnEchoSkillBotDotNetV3AppId: App Id for BffnEchoSkillBotDotNetV3 bot.
   # BffnEchoSkillBotDotNetV3AppSecret: App Secret for BffnEchoSkillBotDotNetV3 bot.
+
   # BffnEchoSkillBotJSAppId: App Id for BffnEchoSkillBotJS bot.
   # BffnEchoSkillBotJSAppSecret: App Secret for BffnEchoSkillBotJS bot.
   # BffnEchoSkillBotJSSTAppId: App Id for BffnEchoSkillBotJSST bot.
   # BffnEchoSkillBotJSSTAppSecret: App Secret for BffnEchoSkillBotJSST bot.
   # BffnEchoSkillBotJSV3AppId: App Id for BffnEchoSkillBotJSV3 bot.
   # BffnEchoSkillBotJSV3AppSecret: App Secret for BffnEchoSkillBotJSV3 bot.
+
   # BffnEchoSkillBotPythonAppId: App Id for BffnEchoSkillBotPython bot.
   # BffnEchoSkillBotPythonAppSecret: App Secret for BffnEchoSkillBotPython bot.
+
   # BffnSimpleHostBotComposerDotNetAppId: App Id for BffnSimpleHostBotComposerDotNet bot.
   # BffnSimpleHostBotComposerDotNetAppSecret: App Secret for BffnSimpleHostBotComposerDotNet bot.
   # BffnSimpleHostBotDotNetAppId: App Id for BffnSimpleHostBotDotNet bot.
@@ -164,24 +168,30 @@ variables:
   # BffnSimpleHostBotDotNet31AppSecret: App Secret for BffnSimpleHostBotDotNet31 bot.
   # BffnSimpleHostBotDotNetSTAppId: App Id for BffnSimpleHostBotDotNetST bot.
   # BffnSimpleHostBotDotNetSTAppSecret: App Secret for BffnSimpleHostBotDotNetST bot.
+
   # BffnSimpleHostBotJSAppId: App Id for BffnSimpleHostBotJS bot.
   # BffnSimpleHostBotJSAppSecret: App Secret for BffnSimpleHostBotJS bot.
   # BffnSimpleHostBotJSSTAppId: App Id for BffnSimpleHostBotJSST bot.
   # BffnSimpleHostBotJSSTAppSecret: App Secret for BffnSimpleHostBotJSST bot.
+
   # BffnSimpleHostBotPythonAppId: App Id for BffnSimpleHostBotPython bot.
   # BffnSimpleHostBotPythonAppSecret: App Secret for BffnSimpleHostBotPython bot.
+
   # BffnWaterfallHostBotDotNetAppId: App Id for BffnWaterfallHostBotDotNet bot.
   # BffnWaterfallHostBotDotNetAppSecret: App Secret for BffnWaterfallHostBotDotNet bot.
   # BffnWaterfallSkillBotDotNetAppId: App Id for BffnWaterfallSkillBotDotNet bot.
   # BffnWaterfallSkillBotDotNetAppSecret: App Secret for BffnWaterfallSkillBotDotNet bot.
+
   # BffnWaterfallHostBotJSAppId: App Id for BffnWaterfallHostBotJS bot.
   # BffnWaterfallHostBotJSAppSecret: App Secret for BffnWaterfallHostBotJS bot.
   # BffnWaterfallSkillBotJSAppId: App Id for BffnWaterfallSkillBotJS bot.
   # BffnWaterfallSkillBotJSAppSecret: App Secret for BffnWaterfallSkillBotJS bot.
+
   # BffnWaterfallHostBotPythonAppId: App Id for BffnWaterfallHostBotPython bot.
   # BffnWaterfallHostBotPythonAppSecret: App Secret for BffnWaterfallHostBotPython bot.
   # BffnWaterfallSkillBotPythonAppId: App Id for BffnWaterfallSkillBotPython bot.
   # BffnWaterfallSkillBotPythonAppSecret: App Secret for BffnWaterfallSkillBotPython bot.
+  
   # ConnectionName: (optional) Name for the OAuth connection to use in the skill bots.
 
   ## DependenciesVersion (Define these variables in Azure) Possible values are: Latest (default), Stable, or specific version numbers.
