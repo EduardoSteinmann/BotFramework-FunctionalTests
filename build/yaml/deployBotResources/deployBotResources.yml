@@ -205,17 +205,17 @@ variables:
   # DependenciesVersionPythonSkills: (optional) Bot Builder dependency version to use for Python skill bots.
 
   ## Internal variables
-  InternalAppInsightsName: 'bffnappinsights$(INTERNALRESOURCESUFFIX)'
+  InternalAppInsightsName: 'bffnappinsightstest01'
   InternalAppServicePlanDotNetName: $(APPSERVICEPLANDOTNETNAME)$(INTERNALRESOURCESUFFIX)
   InternalAppServicePlanJSName: $(APPSERVICEPLANJSNAME)$(INTERNALRESOURCESUFFIX)
   InternalAppServicePlanPythonName: $(APPSERVICEPLANPYTHONNAME)$(INTERNALRESOURCESUFFIX)
-  InternalContainerRegistryName: $[coalesce(variables['CONTAINERREGISTRYNAME'], 'bffncontainerregistry$(INTERNALRESOURCESUFFIX)')]
+  InternalContainerRegistryName: $[coalesce(variables['CONTAINERREGISTRYNAME'], 'bffncontainerregistrytest01')]
   InternalProjectTag: $[coalesce(variables['PROJECTTAG'], 'BFFN')]
-  InternalKeyVaultName: 'bffnbotkeyvault$(INTERNALRESOURCESUFFIX)'
+  InternalKeyVaultName: 'bffnbotkeyvaulttest01'
   InternalResourceGroupName: $[coalesce(variables['RESOURCEGROUP'], 'BFFN')]
   InternalResourceSuffix: $[coalesce(variables['RESOURCESUFFIX'], '')]
   InternalSharedResourceGroupName: $[coalesce(variables['SHAREDRESOURCEGROUP'], 'BFFN-Shared')]
-  InternalVirtualNetworkName: $[coalesce(variables['VIRTUALNETWORKNAME'], 'bffnvirtualnetwork$(INTERNALRESOURCESUFFIX)')]
+  InternalVirtualNetworkName: $[coalesce(variables['VIRTUALNETWORKNAME'], 'bffnvirtualnetworktest01')]
 
 stages:
 # Resource Groups
