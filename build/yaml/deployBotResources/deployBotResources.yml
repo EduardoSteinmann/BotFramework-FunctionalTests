@@ -135,18 +135,18 @@ variables:
 
   ## Bots Configuration (Define these variables in Azure)
 
-  # BffnComposerHostBotDotNetAppId: App Id for BffnComposerHostBotDotNet bot.
-  # BffnComposerHostBotDotNetAppSecret: App Secret for BffnComposerHostBotDotNet bot.
-  # BffnComposerSkillBotDotNetAppId: App Id for BffnComposerSkillBotDotNet bot.
-  # BffnComposerSkillBotDotNetAppSecret: App Secret for BffnComposerSkillBotDotNet bot.
-  # BffnEchoSkillBotComposerDotNetAppId: App Id for BffnEchoSkillBotComposerDotNet bot.
-  # BffnEchoSkillBotComposerDotNetAppSecret: App Secret for BffnEchoSkillBotComposerDotNet bot.
-  # BffnEchoSkillBotDotNetAppId: App Id for BffnEchoSkillBotDotNet bot.
-  # BffnEchoSkillBotDotNetAppSecret: App Secret for BffnEchoSkillBotDotNet bot.
-  # BffnEchoSkillBotDotNet31AppId: App Id for BffnEchoSkillBotDotNet31 bot.
-  # BffnEchoSkillBotDotNet31AppSecret: App Secret for BffnEchoSkillBotDotNet31 bot.
-  # BffnEchoSkillBotDotNetSTAppId: App Id for BffnEchoSkillBotDotNetST bot.
-  # BffnEchoSkillBotDotNetSTAppSecret: App Secret for BffnEchoSkillBotDotNetST bot.
+  # BffnComposerHostBotDotNetAppId: App Id for BffnComposerHostBotDotNet bot. 1
+  # BffnComposerHostBotDotNetAppSecret: App Secret for BffnComposerHostBotDotNet bot. 1
+  # BffnComposerSkillBotDotNetAppId: App Id for BffnComposerSkillBotDotNet bot. 1
+  # BffnComposerSkillBotDotNetAppSecret: App Secret for BffnComposerSkillBotDotNet bot. 1
+  # BffnEchoSkillBotComposerDotNetAppId: App Id for BffnEchoSkillBotComposerDotNet bot. 1
+  # BffnEchoSkillBotComposerDotNetAppSecret: App Secret for BffnEchoSkillBotComposerDotNet bot. 1
+  # BffnEchoSkillBotDotNetAppId: App Id for BffnEchoSkillBotDotNet bot.1
+  # BffnEchoSkillBotDotNetAppSecret: App Secret for BffnEchoSkillBotDotNet bot.1
+  # BffnEchoSkillBotDotNet31AppId: App Id for BffnEchoSkillBotDotNet31 bot.1
+  # BffnEchoSkillBotDotNet31AppSecret: App Secret for BffnEchoSkillBotDotNet31 bot.1
+  # BffnEchoSkillBotDotNetSTAppId: App Id for BffnEchoSkillBotDotNetST bot.1
+  # BffnEchoSkillBotDotNetSTAppSecret: App Secret for BffnEchoSkillBotDotNetST bot.1
   # BffnEchoSkillBotDotNetV3AppId: App Id for BffnEchoSkillBotDotNetV3 bot.
   # BffnEchoSkillBotDotNetV3AppSecret: App Secret for BffnEchoSkillBotDotNetV3 bot.
 
@@ -160,8 +160,8 @@ variables:
   # BffnEchoSkillBotPythonAppId: App Id for BffnEchoSkillBotPython bot.
   # BffnEchoSkillBotPythonAppSecret: App Secret for BffnEchoSkillBotPython bot.
 
-  # BffnSimpleHostBotComposerDotNetAppId: App Id for BffnSimpleHostBotComposerDotNet bot.
-  # BffnSimpleHostBotComposerDotNetAppSecret: App Secret for BffnSimpleHostBotComposerDotNet bot.
+  # BffnSimpleHostBotComposerDotNetAppId: App Id for BffnSimpleHostBotComposerDotNet bot. 1
+  # BffnSimpleHostBotComposerDotNetAppSecret: App Secret for BffnSimpleHostBotComposerDotNet bot. 1
   # BffnSimpleHostBotDotNetAppId: App Id for BffnSimpleHostBotDotNet bot.
   # BffnSimpleHostBotDotNetAppSecret: App Secret for BffnSimpleHostBotDotNet bot.
   # BffnSimpleHostBotDotNet31AppId: App Id for BffnSimpleHostBotDotNet31 bot.
