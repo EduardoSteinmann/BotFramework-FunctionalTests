@@ -147,18 +147,18 @@ variables:
   # BffnEchoSkillBotDotNet31AppSecret: App Secret for BffnEchoSkillBotDotNet31 bot.1
   # BffnEchoSkillBotDotNetSTAppId: App Id for BffnEchoSkillBotDotNetST bot.1
   # BffnEchoSkillBotDotNetSTAppSecret: App Secret for BffnEchoSkillBotDotNetST bot.1
-  # BffnEchoSkillBotDotNetV3AppId: App Id for BffnEchoSkillBotDotNetV3 bot.
-  # BffnEchoSkillBotDotNetV3AppSecret: App Secret for BffnEchoSkillBotDotNetV3 bot.
+  # BffnEchoSkillBotDotNetV3AppId: App Id for BffnEchoSkillBotDotNetV3 bot.1
+  # BffnEchoSkillBotDotNetV3AppSecret: App Secret for BffnEchoSkillBotDotNetV3 bot.1
 
-  # BffnEchoSkillBotJSAppId: App Id for BffnEchoSkillBotJS bot.
-  # BffnEchoSkillBotJSAppSecret: App Secret for BffnEchoSkillBotJS bot.
-  # BffnEchoSkillBotJSSTAppId: App Id for BffnEchoSkillBotJSST bot.
-  # BffnEchoSkillBotJSSTAppSecret: App Secret for BffnEchoSkillBotJSST bot.
-  # BffnEchoSkillBotJSV3AppId: App Id for BffnEchoSkillBotJSV3 bot.
-  # BffnEchoSkillBotJSV3AppSecret: App Secret for BffnEchoSkillBotJSV3 bot.
+  # BffnEchoSkillBotJSAppId: App Id for BffnEchoSkillBotJS bot.1
+  # BffnEchoSkillBotJSAppSecret: App Secret for BffnEchoSkillBotJS bot.1
+  # BffnEchoSkillBotJSSTAppId: App Id for BffnEchoSkillBotJSST bot.1
+  # BffnEchoSkillBotJSSTAppSecret: App Secret for BffnEchoSkillBotJSST bot.1
+  # BffnEchoSkillBotJSV3AppId: App Id for BffnEchoSkillBotJSV3 bot.1
+  # BffnEchoSkillBotJSV3AppSecret: App Secret for BffnEchoSkillBotJSV3 bot.1
 
-  # BffnEchoSkillBotPythonAppId: App Id for BffnEchoSkillBotPython bot.
-  # BffnEchoSkillBotPythonAppSecret: App Secret for BffnEchoSkillBotPython bot.
+  # BffnEchoSkillBotPythonAppId: App Id for BffnEchoSkillBotPython bot.1
+  # BffnEchoSkillBotPythonAppSecret: App Secret for BffnEchoSkillBotPython bot.1
 
   # BffnSimpleHostBotComposerDotNetAppId: App Id for BffnSimpleHostBotComposerDotNet bot. 1
   # BffnSimpleHostBotComposerDotNetAppSecret: App Secret for BffnSimpleHostBotComposerDotNet bot. 1
@@ -177,8 +177,8 @@ variables:
   # BffnSimpleHostBotPythonAppId: App Id for BffnSimpleHostBotPython bot.
   # BffnSimpleHostBotPythonAppSecret: App Secret for BffnSimpleHostBotPython bot.
 
-  # BffnWaterfallHostBotDotNetAppId: App Id for BffnWaterfallHostBotDotNet bot.
-  # BffnWaterfallHostBotDotNetAppSecret: App Secret for BffnWaterfallHostBotDotNet bot.
+  # BffnWaterfallHostBotDotNetAppId: App Id for BffnWaterfallHostBotDotNet bot.1
+  # BffnWaterfallHostBotDotNetAppSecret: App Secret for BffnWaterfallHostBotDotNet bot.1
   # BffnWaterfallSkillBotDotNetAppId: App Id for BffnWaterfallSkillBotDotNet bot.
   # BffnWaterfallSkillBotDotNetAppSecret: App Secret for BffnWaterfallSkillBotDotNet bot.
 
