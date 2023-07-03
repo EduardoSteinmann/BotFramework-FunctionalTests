@@ -135,10 +135,10 @@ variables:
 
   ## Bots Configuration (Define these variables in Azure)
 
-  ##BffnComposerHostBotDotNetAppId: App Id for BffnComposerHostBotDotNet bot.
-  ##BffnComposerHostBotDotNetAppSecret: App Secret for BffnComposerHostBotDotNet bot.
-  ##BffnComposerSkillBotDotNetAppId: App Id for BffnComposerSkillBotDotNet bot.
-  ##BffnComposerSkillBotDotNetAppSecret: App Secret for BffnComposerSkillBotDotNet bot.
+  # BffnComposerHostBotDotNetAppId: App Id for BffnComposerHostBotDotNet bot.
+  # BffnComposerHostBotDotNetAppSecret: App Secret for BffnComposerHostBotDotNet bot.
+  # BffnComposerSkillBotDotNetAppId: App Id for BffnComposerSkillBotDotNet bot.
+  # BffnComposerSkillBotDotNetAppSecret: App Secret for BffnComposerSkillBotDotNet bot.
   # BffnEchoSkillBotComposerDotNetAppId: App Id for BffnEchoSkillBotComposerDotNet bot.
   # BffnEchoSkillBotComposerDotNetAppSecret: App Secret for BffnEchoSkillBotComposerDotNet bot.
   # BffnEchoSkillBotDotNetAppId: App Id for BffnEchoSkillBotDotNet bot.
