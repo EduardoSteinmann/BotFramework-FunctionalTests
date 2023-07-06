@@ -567,7 +567,7 @@ stages:
           type: "Host"
           displayName: "JS Simple Host Bot SingleTenant"
           appId: $(BFFNSIMPLEHOSTBOTJSSTAPPID)
-          appSecret: $(BFFNECHOSKILLBOTJSSTAPPSECRET)
+          appSecret: $(BFFNSIMPLEHOSTBOTJSSTAPPSECRET)
           
           dependency:
             registry: ${{ parameters.dependenciesRegistryJSHosts }}
