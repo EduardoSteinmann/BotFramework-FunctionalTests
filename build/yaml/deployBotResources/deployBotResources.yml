@@ -568,7 +568,8 @@ stages:
           displayName: "JS Simple Host Bot SingleTenant"
           appId: $(BFFNSIMPLEHOSTBOTJSSTAPPID)
           appSecret: $(BFFNSIMPLEHOSTBOTJSSTAPPSECRET)
-          
+          project:
+            directory: 'Bots/JavaScript/SimpleHostBot'
           dependency:
             registry: ${{ parameters.dependenciesRegistryJSHosts }}
             version: ${{ parameters.dependenciesVersionJSHosts }}
