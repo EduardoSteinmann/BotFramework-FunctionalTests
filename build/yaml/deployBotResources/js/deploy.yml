@@ -94,7 +94,6 @@ stages:
                 workingDirectory: '$(SYSTEM.DEFAULTWORKINGDIRECTORY)/${{ bot.project.directory }}'
                 failOnStderr: true
                 script: |
-                  touch ./.env
                   $file = "./.env"
                   $content = Get-Content $file
                   $content | ForEach-Object {
