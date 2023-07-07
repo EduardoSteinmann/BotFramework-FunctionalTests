@@ -566,6 +566,7 @@ stages:
         - name: "bffnsimplehostbotjsst"
           type: "Host"
           displayName: "JS Simple Host Bot SingleTenant"
+          appType: "SingleTenant"
           appId: $(BFFNSIMPLEHOSTBOTJSSTAPPID)
           appSecret: $(BFFNSIMPLEHOSTBOTJSSTAPPSECRET)
           project:
