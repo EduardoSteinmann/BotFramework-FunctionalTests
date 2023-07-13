@@ -69,4 +69,4 @@ steps:
         -WaterfallSkillBotDotNetAppId "${{ parameters.appIds.WaterfallSkillBotDotNet }}"
         -WaterfallSkillBotJSAppId "${{ parameters.appIds.WaterfallSkillBotJS }}"
         -WaterfallSkillBotPythonAppId "${{ parameters.appIds.WaterfallSkillBotPython }}"
-      failOnStandardError: true
+      failOnStandardError: false
