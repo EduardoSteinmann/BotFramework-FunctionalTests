@@ -7,7 +7,7 @@ param (
   [Parameter(Mandatory = $true)]
   [string]$SharedResourceGroup,
   [Parameter(Mandatory = $false)]
-  [string]$SharedResourceSuffix = "test02",
+  [string]$SharedResourceSuffix = "",
   [Parameter(Mandatory = $false)]
   [string]$ComposerSkillBotDotNetAppId,
   [Parameter(Mandatory = $false)]
